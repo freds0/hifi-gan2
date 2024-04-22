@@ -1,0 +1,12 @@
+torch==2.2.2
+torchaudio==2.2.2
+numpy==1.26.4
+librosa==0.10.1
+scipy==1.13.0
+tensorboard==2.16.2
+soundfile==0.12.1
+matplotlib==3.8.4
+pydub==0.25.1
+pyroomacoustics==0.7.3
+audiomentations==0.35.0
+
